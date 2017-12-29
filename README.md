@@ -1,2 +1,3 @@
-# slacknowledge-issues
-support for https://slacknowledge.pig-brewing.com/
+Bug reports and feature requests at https://slacknowledge.pig-brewing.com/ .
+
+Use issues only.
